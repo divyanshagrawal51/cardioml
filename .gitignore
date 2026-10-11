@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# Generated (recreate with src/preprocess.py)
+data/processed/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
